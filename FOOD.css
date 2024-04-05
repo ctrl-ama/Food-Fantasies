@@ -1,9 +1,9 @@
-h1
-{
+h1 {
     font-style: italic;
 }
-body
-{
-background-image:url('C:\Users\hp\Downloads\anna-tukhfatullina-food-photographer-stylist-Mzy-OjtCI70-unsplash.jpg');
-background-position: center;
+
+body {
+    background-image: url('bg.jpg');
+    background-position: center;
+    background-size: cover; /* Adjust this value as needed */
 }
