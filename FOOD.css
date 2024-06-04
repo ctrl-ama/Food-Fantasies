@@ -1,12 +1,10 @@
-h1
-{
+h1 {
     font-style: italic;
     color: white;
 }
 body
 {
-background-image:url('anna-tukhfatullina-food-photographer-stylist-Mzy-OjtCI70-unsplash.jpg');
-background-size: cover;
+background-image:url('C:\Users\hp\Downloads\anna-tukhfatullina-food-photographer-stylist-Mzy-OjtCI70-unsplash.jpg');
 background-position: center;
 }
 nav {
