@@ -3,7 +3,7 @@ h1 {
 }
 
 body {
-    background-image: url('bg.jpg');
+    background-color: powderblue;
     background-position: center;
     background-size: cover; /* Adjust this value as needed */
 }
